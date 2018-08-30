@@ -1,0 +1,54 @@
+#HeaderSection .navbar
+{
+    background: #d63031;
+    border-bottom: #FFF 03px solid;
+}
+
+#HeaderSection .navbar a
+{
+    color: #FFF;
+}
+
+#ShowCase
+{
+    margin-top: 85px;
+    background: url('../img/home.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 400px;
+}
+
+#MainSection a
+{
+    text-decoration: none;
+    color: #2d3436;
+}
+
+#MainSection a:hover
+{
+    color: #00b894;
+}
+
+#SideBar p
+{
+    background: #2d3436;
+    color: #FFF;
+    padding: 08px;
+}
+
+#Footer img
+{
+    margin-top: -110px;
+}
+
+#RecenPosts img
+{
+    margin-top:03px;
+}
+
+#RecenPosts a
+{
+    text-decoration: none;
+    color: #FFF;
+}
+
